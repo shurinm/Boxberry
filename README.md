@@ -22,7 +22,7 @@
 
 3. Напишите PHP скрипт в который через GET передаются две даты, а скрипт должен рассчитать сколько вторников было между ними.
 
-   [Решение](https://github.com/shurinm/Boxberry/blob/master/tasks/CountTuesdays/%D0%A1ountTuesdays.php)
+   [Решение](https://github.com/shurinm/Boxberry/blob/master/tasks/PatientsCheck/PatientsCheck.php)
 
 
 4. Есть таблица, которая хранит сведения о товарах вида:
