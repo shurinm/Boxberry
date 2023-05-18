@@ -3,7 +3,7 @@
 1. Вы работаете над проектом умной больницы, где каждый из 1000 пациентов имеет специальный датчик, который раз в 10 минут передает сведения о пульсе и давлении подопечного.  
    Напишите SQL таблицы для хранения этих данных, учитывая то, что один из самых частых запросов к ней будет: выбор всех подопечных у которых после обеда были превышены нормы пульса и давления.
 
-   [Решение](https://github.com/M1aso/boxberry-test/blob/main/tasks/PatientsCheck/PatientsCheck.php)
+   [Решение](https://github.com/shurinm/Boxberry/blob/main/tasks/PatientsCheck/PatientsCheck.php)
 
 
 2. У вас есть база размером свыше 100гб и более 8млн строк. Вам необходимо добавить 3 новых поля, переименовать одно поле, а также добавить два индекса. Опишите, как вы это будете делать?
@@ -22,7 +22,7 @@
 
 3. Напишите PHP скрипт в который через GET передаются две даты, а скрипт должен рассчитать сколько вторников было между ними.
 
-   [Решение](https://github.com/M1aso/boxberry-test/blob/main/tasks/CountTuesdays/%D0%A1ountTuesdays.php)
+   [Решение](https://github.com/shurinm/Boxberry/blob/main/tasks/CountTuesdays/%D0%A1ountTuesdays.php)
 
 
 4. Есть таблица, которая хранит сведения о товарах вида:
@@ -49,4 +49,4 @@
 
    Для заполнения данными можно воспользоваться [готовой библиотекой](https://github.com/fzaninotto/Faker)  
    [Массив названий цветов](https://gist.github.com/slikts/cfa5bb0ad340b6e01dd711f20a419aec)  
-   [Решение](https://github.com/M1aso/boxberry-test/blob/main/tasks/ChangePrice/ChangePrice.php)
+   [Решение](https://github.com/shurinm/Boxberry/blob/main/tasks/ChangePrice/ChangePrice.php)
