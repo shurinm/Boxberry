@@ -22,7 +22,7 @@
 
 3. Напишите PHP скрипт в который через GET передаются две даты, а скрипт должен рассчитать сколько вторников было между ними.
 
-   [Решение](https://github.com/shurinm/Boxberry/blob/master/tasks/PatientsCheck/PatientsCheck.php)
+   [Решение](https://github.com/shurinm/Boxberry/blob/master/tasks/CountTuesdays/%D0%A1ountTuesdays.php)
 
 
 4. Есть таблица, которая хранит сведения о товарах вида:
@@ -49,4 +49,4 @@
 
    Для заполнения данными можно воспользоваться [готовой библиотекой](https://github.com/fzaninotto/Faker)  
    [Массив названий цветов](https://gist.github.com/slikts/cfa5bb0ad340b6e01dd711f20a419aec)  
-   [Решение](https://github.com/shurinm/Boxberry/blob/main/tasks/ChangePrice/ChangePrice.php)
+   [Решение](https://github.com/shurinm/Boxberry/blob/master/tasks/ChangePrice/ChangePrice.php)
